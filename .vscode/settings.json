@@ -1,0 +1,24 @@
+{
+	// Godot Tools
+	"godotTools.lsp.serverPort": 6005,
+	// C#
+	"csharp.suppressHiddenDiagnostics": false,
+	"csharp.semanticHighlighting.enabled": true,
+	// .NET
+	"dotnetAcquisitionExtension.enableTelemetry": false,
+	"dotnet.completion.showCompletionItemsFromUnimportedNamespaces": true,
+	// OmniSharp
+	"omnisharp.enableEditorConfigSupport": true,
+	"omnisharp.enableMsBuildLoadProjectsOnDemand": false,
+	"omnisharp.maxFindSymbolsItems": 3000,
+	"omnisharp.organizeImportsOnFormat": true,
+	"omnisharp.useModernNet": true,
+	// Files
+	"files.trimFinalNewlines": true,
+	"files.insertFinalNewline": true,
+	"files.trimTrailingWhitespace": true,
+	"files.eol": "\n",
+	// Editor
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false
+}
