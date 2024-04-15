@@ -1,0 +1,19 @@
+{
+	"recommendations": [
+		"aaron-bond.better-comments",
+		"ms-dotnettools.csharp",
+		"neikeq.godot-csharp-vscode",
+		"streetsidesoftware.code-spell-checker",
+		"selcukermaya.se-csproj-extensions",
+		"EditorConfig.EditorConfig",
+		"jjkim.gdscript",
+		"alfish.godot-files",
+		"geequlim.godot-tools",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"yzhang.markdown-all-in-one",
+		"DavidAnson.vscode-markdownlint",
+		"christian-kohler.path-intellisense",
+		"josefpihrt-vscode.roslynator",
+		"redhat.vscode-xml"
+	]
+}
